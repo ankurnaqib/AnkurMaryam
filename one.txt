@@ -1,0 +1,5 @@
+=========================================================
+This is the first file. Workshop Day 2_ Version control
+Working on the repository
+
+===========================================================
